@@ -1,0 +1,7 @@
+node_modules
+yarn-error.log
+logs
+*.DS_Store
+*.lock
+build
+.yalc

@@ -1,0 +1,27 @@
+{
+  "name": "material-bread-next",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "babel-plugin-react-native-web": "^0.11.7",
+    "material-bread": "^0.2.2",
+    "next": "latest",
+    "next-fonts": "^0.18.0",
+    "next-transpile-modules": "^2.3.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-native-svg-web": "^1.0.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "^0.11.6"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.5.2",
+    "@babel/plugin-proposal-export-namespace-from": "^7.5.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-syntax-export-default-from": "^7.2.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.4.4"
+  }
+}
