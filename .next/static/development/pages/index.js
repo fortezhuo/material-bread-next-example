@@ -37058,10 +37058,10 @@ module.exports=function(e){var t={};function n(i){if(t[i])return t[i].exports;va
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next%2Fpages%2Findex.js!./":
-/*!**********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next%2Fpages%2Findex.js ***!
-  \**********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next-example%2Fpages%2Findex.js!./":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next-example%2Fpages%2Findex.js ***!
+  \******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -69023,7 +69023,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/forte/Downloads/material-bread-next/pages/index.js";
+var _jsxFileName = "/Users/forte/Downloads/material-bread-next-example/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 
@@ -69238,7 +69238,7 @@ function (_React$Component) {
             lineNumber: 74
           },
           __self: this
-        }, "App")),
+        }, "Material Bread Next")),
         backLayerRevealed: backLayerRevealed,
         offset: 260,
         __source: {
@@ -69265,92 +69265,41 @@ function (_React$Component) {
           lineNumber: 80
         },
         __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["Avatar"], {
-        type: "icon",
-        content: "album",
-        contentColor: '#ececec',
-        color: '#a3a3a3',
-        size: 40,
+      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["ListItem"], {
+        text: 'Back in Black',
+        secondaryText: 'AC/DC',
+        media: album,
+        actionItem: iconFav,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 88
         },
         __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["Avatar"], {
-        type: "icon",
-        content: "album",
-        contentColor: '#ececec',
-        color: '#a3a3a3',
-        size: 40,
+      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["ListItem"], {
+        text: 'Hotel California',
+        secondaryText: 'Eagles',
+        media: album,
+        actionItem: iconFav,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 89
         },
         __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["Avatar"], {
-        type: "icon",
-        content: "album",
-        contentColor: '#ececec',
-        color: '#a3a3a3',
-        size: 40,
+      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["ListItem"], {
+        text: 'Dark Side of the Moon',
+        secondaryText: 'Pink Floyd ',
+        media: album,
+        actionItem: iconFav,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 90
         },
         __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["Avatar"], {
-        type: "icon",
-        content: "album",
-        contentColor: '#ececec',
-        color: '#a3a3a3',
-        size: 40,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 91
-        },
-        __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["Avatar"], {
-        type: "icon",
-        content: "album",
-        contentColor: '#ececec',
-        color: '#a3a3a3',
-        size: 40,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 92
-        },
-        __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["IconButton"], {
-        name: "favorite",
-        size: 24,
-        color: "#6e6e6e",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 93
-        },
-        __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["IconButton"], {
-        name: "favorite",
-        size: 24,
-        color: "#6e6e6e",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 94
-        },
-        __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["IconButton"], {
-        name: "favorite",
-        size: 24,
-        color: "#6e6e6e",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 95
-        },
-        __self: this
-      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["IconButton"], {
-        name: "favorite",
-        size: 24,
-        color: "#6e6e6e",
+      }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_7__["ListItem"], {
+        text: 'Led Zeppelin IV',
+        secondaryText: 'Led Zeppelin',
+        media: album,
+        actionItem: iconFav,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 96
@@ -69368,13 +69317,13 @@ function (_React$Component) {
 /***/ }),
 
 /***/ 0:
-/*!**************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next%2Fpages%2Findex.js ***!
-  \**************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next-example%2Fpages%2Findex.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next-example%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fforte%2FDownloads%2Fmaterial-bread-next-example%2Fpages%2Findex.js!./");
 
 
 /***/ }),

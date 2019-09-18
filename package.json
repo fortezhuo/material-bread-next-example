@@ -16,12 +16,5 @@
     "react-native-svg-web": "^1.0.1",
     "react-native-vector-icons": "^6.6.0",
     "react-native-web": "^0.11.6"
-  },
-  "devDependencies": {
-    "@babel/plugin-proposal-export-default-from": "^7.5.2",
-    "@babel/plugin-proposal-export-namespace-from": "^7.5.2",
-    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
-    "@babel/plugin-syntax-export-default-from": "^7.2.0",
-    "@babel/plugin-transform-flow-strip-types": "^7.4.4"
   }
 }

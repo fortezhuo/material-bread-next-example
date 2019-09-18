@@ -52103,7 +52103,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_native__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_native__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var material_bread__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! material-bread */ "./node_modules/material-bread/dist/index.js");
 /* harmony import */ var material_bread__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(material_bread__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/forte/Downloads/material-bread-next/pages/index.js";
+var _jsxFileName = "/Users/forte/Downloads/material-bread-next-example/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -52306,7 +52306,7 @@ class Page extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
           lineNumber: 74
         },
         __self: this
-      }, "App")),
+      }, "Material Bread Next")),
       backLayerRevealed: backLayerRevealed,
       offset: 260,
       __source: {
@@ -52333,92 +52333,41 @@ class Page extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
         lineNumber: 80
       },
       __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["Avatar"], {
-      type: "icon",
-      content: "album",
-      contentColor: '#ececec',
-      color: '#a3a3a3',
-      size: 40,
+    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["ListItem"], {
+      text: 'Back in Black',
+      secondaryText: 'AC/DC',
+      media: album,
+      actionItem: iconFav,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 88
       },
       __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["Avatar"], {
-      type: "icon",
-      content: "album",
-      contentColor: '#ececec',
-      color: '#a3a3a3',
-      size: 40,
+    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["ListItem"], {
+      text: 'Hotel California',
+      secondaryText: 'Eagles',
+      media: album,
+      actionItem: iconFav,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 89
       },
       __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["Avatar"], {
-      type: "icon",
-      content: "album",
-      contentColor: '#ececec',
-      color: '#a3a3a3',
-      size: 40,
+    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["ListItem"], {
+      text: 'Dark Side of the Moon',
+      secondaryText: 'Pink Floyd ',
+      media: album,
+      actionItem: iconFav,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 90
       },
       __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["Avatar"], {
-      type: "icon",
-      content: "album",
-      contentColor: '#ececec',
-      color: '#a3a3a3',
-      size: 40,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 91
-      },
-      __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["Avatar"], {
-      type: "icon",
-      content: "album",
-      contentColor: '#ececec',
-      color: '#a3a3a3',
-      size: 40,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 92
-      },
-      __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["IconButton"], {
-      name: "favorite",
-      size: 24,
-      color: "#6e6e6e",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 93
-      },
-      __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["IconButton"], {
-      name: "favorite",
-      size: 24,
-      color: "#6e6e6e",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 94
-      },
-      __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["IconButton"], {
-      name: "favorite",
-      size: 24,
-      color: "#6e6e6e",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 95
-      },
-      __self: this
-    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["IconButton"], {
-      name: "favorite",
-      size: 24,
-      color: "#6e6e6e",
+    }), __jsx(material_bread__WEBPACK_IMPORTED_MODULE_2__["ListItem"], {
+      text: 'Led Zeppelin IV',
+      secondaryText: 'Led Zeppelin',
+      media: album,
+      actionItem: iconFav,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 96
@@ -52438,7 +52387,7 @@ class Page extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/forte/Downloads/material-bread-next/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/forte/Downloads/material-bread-next-example/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

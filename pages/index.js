@@ -71,7 +71,7 @@ export default class Page extends React.Component {
         <Backdrop
           backLayerConcealed={
             <View style={styles.backdropHeader}>
-              <Text style={styles.backdropHeaderTitle}>App</Text>
+              <Text style={styles.backdropHeaderTitle}>Material Bread Next</Text>
             </View>
           }
           backLayerRevealed={backLayerRevealed}
@@ -85,15 +85,20 @@ export default class Page extends React.Component {
                 fontSize: 20
               }}
             />
-            <Avatar type="icon" content="album" contentColor={'#ececec'} color={'#a3a3a3'} size={40} />
-            <Avatar type="icon" content="album" contentColor={'#ececec'} color={'#a3a3a3'} size={40} />
-            <Avatar type="icon" content="album" contentColor={'#ececec'} color={'#a3a3a3'} size={40} />
-            <Avatar type="icon" content="album" contentColor={'#ececec'} color={'#a3a3a3'} size={40} />
-            <Avatar type="icon" content="album" contentColor={'#ececec'} color={'#a3a3a3'} size={40} />
-            <IconButton name="favorite" size={24} color="#6e6e6e" />
-            <IconButton name="favorite" size={24} color="#6e6e6e" />
-            <IconButton name="favorite" size={24} color="#6e6e6e" />
-            <IconButton name="favorite" size={24} color="#6e6e6e" />
+            <ListItem text={'Back in Black'} secondaryText={'AC/DC'} media={album} actionItem={iconFav} />
+            <ListItem text={'Hotel California'} secondaryText={'Eagles'} media={album} actionItem={iconFav} />
+            <ListItem
+              text={'Dark Side of the Moon'}
+              secondaryText={'Pink Floyd '}
+              media={album}
+              actionItem={iconFav}
+            />
+            <ListItem
+              text={'Led Zeppelin IV'}
+              secondaryText={'Led Zeppelin'}
+              media={album}
+              actionItem={iconFav}
+            />
           </View>
         </Backdrop>
       </View>

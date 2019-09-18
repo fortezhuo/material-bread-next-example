@@ -28956,7 +28956,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _app_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../app.json */ "./app.json");
 var _app_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../app.json */ "./app.json", 1);
 
-var _jsxFileName = "/Users/forte/Downloads/material-bread-next/pages/_document.js";
+var _jsxFileName = "/Users/forte/Downloads/material-bread-next-example/pages/_document.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
